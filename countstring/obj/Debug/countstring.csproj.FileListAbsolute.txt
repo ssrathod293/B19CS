@@ -1,0 +1,7 @@
+C:\Users\ssrat\source\repos\B19CS\countstring\bin\Debug\countstring.exe.config
+C:\Users\ssrat\source\repos\B19CS\countstring\bin\Debug\countstring.exe
+C:\Users\ssrat\source\repos\B19CS\countstring\bin\Debug\countstring.pdb
+C:\Users\ssrat\source\repos\B19CS\countstring\obj\Debug\countstring.csproj.AssemblyReference.cache
+C:\Users\ssrat\source\repos\B19CS\countstring\obj\Debug\countstring.csproj.CoreCompileInputs.cache
+C:\Users\ssrat\source\repos\B19CS\countstring\obj\Debug\countstring.exe
+C:\Users\ssrat\source\repos\B19CS\countstring\obj\Debug\countstring.pdb

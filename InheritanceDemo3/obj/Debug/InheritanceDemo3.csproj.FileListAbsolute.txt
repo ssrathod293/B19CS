@@ -1,0 +1,7 @@
+C:\Users\ssrat\source\repos\B19CS\InheritanceDemo3\bin\Debug\InheritanceDemo3.exe.config
+C:\Users\ssrat\source\repos\B19CS\InheritanceDemo3\bin\Debug\InheritanceDemo3.exe
+C:\Users\ssrat\source\repos\B19CS\InheritanceDemo3\bin\Debug\InheritanceDemo3.pdb
+C:\Users\ssrat\source\repos\B19CS\InheritanceDemo3\obj\Debug\InheritanceDemo3.csproj.CoreCompileInputs.cache
+C:\Users\ssrat\source\repos\B19CS\InheritanceDemo3\obj\Debug\InheritanceDemo3.exe
+C:\Users\ssrat\source\repos\B19CS\InheritanceDemo3\obj\Debug\InheritanceDemo3.pdb
+C:\Users\ssrat\source\repos\B19CS\InheritanceDemo3\obj\Debug\InheritanceDemo3.csproj.AssemblyReference.cache

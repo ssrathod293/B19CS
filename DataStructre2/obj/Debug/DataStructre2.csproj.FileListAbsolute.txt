@@ -1,0 +1,7 @@
+C:\Users\ssrat\source\repos\B19CS\DataStructre2\bin\Debug\DataStructre2.exe.config
+C:\Users\ssrat\source\repos\B19CS\DataStructre2\bin\Debug\DataStructre2.exe
+C:\Users\ssrat\source\repos\B19CS\DataStructre2\bin\Debug\DataStructre2.pdb
+C:\Users\ssrat\source\repos\B19CS\DataStructre2\obj\Debug\DataStructre2.csproj.CoreCompileInputs.cache
+C:\Users\ssrat\source\repos\B19CS\DataStructre2\obj\Debug\DataStructre2.exe
+C:\Users\ssrat\source\repos\B19CS\DataStructre2\obj\Debug\DataStructre2.pdb
+C:\Users\ssrat\source\repos\B19CS\DataStructre2\obj\Debug\DataStructre2.csproj.AssemblyReference.cache

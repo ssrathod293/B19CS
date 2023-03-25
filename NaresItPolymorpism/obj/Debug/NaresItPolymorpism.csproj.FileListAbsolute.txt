@@ -1,0 +1,7 @@
+C:\Users\ssrat\source\repos\B19CS\NaresItPolymorpism\bin\Debug\NaresItPolymorpism.exe.config
+C:\Users\ssrat\source\repos\B19CS\NaresItPolymorpism\bin\Debug\NaresItPolymorpism.exe
+C:\Users\ssrat\source\repos\B19CS\NaresItPolymorpism\bin\Debug\NaresItPolymorpism.pdb
+C:\Users\ssrat\source\repos\B19CS\NaresItPolymorpism\obj\Debug\NaresItPolymorpism.csproj.AssemblyReference.cache
+C:\Users\ssrat\source\repos\B19CS\NaresItPolymorpism\obj\Debug\NaresItPolymorpism.csproj.CoreCompileInputs.cache
+C:\Users\ssrat\source\repos\B19CS\NaresItPolymorpism\obj\Debug\NaresItPolymorpism.exe
+C:\Users\ssrat\source\repos\B19CS\NaresItPolymorpism\obj\Debug\NaresItPolymorpism.pdb

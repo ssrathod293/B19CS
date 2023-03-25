@@ -1,0 +1,7 @@
+C:\Users\ssrat\source\repos\B19CS\B19CS\bin\Debug\B19CS.exe.config
+C:\Users\ssrat\source\repos\B19CS\B19CS\bin\Debug\B19CS.exe
+C:\Users\ssrat\source\repos\B19CS\B19CS\bin\Debug\B19CS.pdb
+C:\Users\ssrat\source\repos\B19CS\B19CS\obj\Debug\Method2.csproj.AssemblyReference.cache
+C:\Users\ssrat\source\repos\B19CS\B19CS\obj\Debug\Method2.csproj.CoreCompileInputs.cache
+C:\Users\ssrat\source\repos\B19CS\B19CS\obj\Debug\B19CS.exe
+C:\Users\ssrat\source\repos\B19CS\B19CS\obj\Debug\B19CS.pdb

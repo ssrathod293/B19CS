@@ -1,0 +1,7 @@
+C:\Users\ssrat\source\repos\B19CS\Datastructer\bin\Debug\Datastructer.exe.config
+C:\Users\ssrat\source\repos\B19CS\Datastructer\bin\Debug\Datastructer.exe
+C:\Users\ssrat\source\repos\B19CS\Datastructer\bin\Debug\Datastructer.pdb
+C:\Users\ssrat\source\repos\B19CS\Datastructer\obj\Debug\Datastructer.csproj.AssemblyReference.cache
+C:\Users\ssrat\source\repos\B19CS\Datastructer\obj\Debug\Datastructer.csproj.CoreCompileInputs.cache
+C:\Users\ssrat\source\repos\B19CS\Datastructer\obj\Debug\Datastructer.exe
+C:\Users\ssrat\source\repos\B19CS\Datastructer\obj\Debug\Datastructer.pdb

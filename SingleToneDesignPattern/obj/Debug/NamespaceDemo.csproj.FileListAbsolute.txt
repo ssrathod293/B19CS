@@ -1,0 +1,10 @@
+C:\Users\ssrat\source\repos\B19CS\SingleToneDesignPattern\bin\Debug\VhashNamespaces.exe.config
+C:\Users\ssrat\source\repos\B19CS\SingleToneDesignPattern\bin\Debug\VhashNamespaces.exe
+C:\Users\ssrat\source\repos\B19CS\SingleToneDesignPattern\bin\Debug\VhashNamespaces.pdb
+C:\Users\ssrat\source\repos\B19CS\SingleToneDesignPattern\bin\Debug\VhaashLibrary.dll
+C:\Users\ssrat\source\repos\B19CS\SingleToneDesignPattern\bin\Debug\VhaashLibrary.pdb
+C:\Users\ssrat\source\repos\B19CS\SingleToneDesignPattern\obj\Debug\NamespaceDemo.csproj.AssemblyReference.cache
+C:\Users\ssrat\source\repos\B19CS\SingleToneDesignPattern\obj\Debug\NamespaceDemo.csproj.CoreCompileInputs.cache
+C:\Users\ssrat\source\repos\B19CS\SingleToneDesignPattern\obj\Debug\NamespaceDemo.csproj.CopyComplete
+C:\Users\ssrat\source\repos\B19CS\SingleToneDesignPattern\obj\Debug\VhashNamespaces.exe
+C:\Users\ssrat\source\repos\B19CS\SingleToneDesignPattern\obj\Debug\VhashNamespaces.pdb

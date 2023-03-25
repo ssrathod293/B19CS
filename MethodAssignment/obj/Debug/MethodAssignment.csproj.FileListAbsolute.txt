@@ -1,0 +1,7 @@
+C:\Users\ssrat\source\repos\B19CS\MethodAssignment\bin\Debug\MethodAssignment.exe.config
+C:\Users\ssrat\source\repos\B19CS\MethodAssignment\bin\Debug\MethodAssignment.exe
+C:\Users\ssrat\source\repos\B19CS\MethodAssignment\bin\Debug\MethodAssignment.pdb
+C:\Users\ssrat\source\repos\B19CS\MethodAssignment\obj\Debug\MethodAssignment.csproj.CoreCompileInputs.cache
+C:\Users\ssrat\source\repos\B19CS\MethodAssignment\obj\Debug\MethodAssignment.exe
+C:\Users\ssrat\source\repos\B19CS\MethodAssignment\obj\Debug\MethodAssignment.pdb
+C:\Users\ssrat\source\repos\B19CS\MethodAssignment\obj\Debug\MethodAssignment.csproj.AssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\ssrat\source\repos\B19CS\SingletonePattern\bin\Debug\SingletonePattern.exe.config
+C:\Users\ssrat\source\repos\B19CS\SingletonePattern\bin\Debug\SingletonePattern.exe
+C:\Users\ssrat\source\repos\B19CS\SingletonePattern\bin\Debug\SingletonePattern.pdb
+C:\Users\ssrat\source\repos\B19CS\SingletonePattern\obj\Debug\SingletonePattern.csproj.AssemblyReference.cache
+C:\Users\ssrat\source\repos\B19CS\SingletonePattern\obj\Debug\SingletonePattern.csproj.CoreCompileInputs.cache
+C:\Users\ssrat\source\repos\B19CS\SingletonePattern\obj\Debug\SingletonePattern.exe
+C:\Users\ssrat\source\repos\B19CS\SingletonePattern\obj\Debug\SingletonePattern.pdb

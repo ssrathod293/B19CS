@@ -1,0 +1,7 @@
+C:\Users\ssrat\source\repos\B19CS\NetSalaryTask\bin\Debug\NetSalaryTask.exe.config
+C:\Users\ssrat\source\repos\B19CS\NetSalaryTask\bin\Debug\NetSalaryTask.exe
+C:\Users\ssrat\source\repos\B19CS\NetSalaryTask\bin\Debug\NetSalaryTask.pdb
+C:\Users\ssrat\source\repos\B19CS\NetSalaryTask\obj\Debug\NetSalaryTask.csproj.CoreCompileInputs.cache
+C:\Users\ssrat\source\repos\B19CS\NetSalaryTask\obj\Debug\NetSalaryTask.exe
+C:\Users\ssrat\source\repos\B19CS\NetSalaryTask\obj\Debug\NetSalaryTask.pdb
+C:\Users\ssrat\source\repos\B19CS\NetSalaryTask\obj\Debug\NetSalaryTask.csproj.AssemblyReference.cache

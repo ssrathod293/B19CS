@@ -1,0 +1,6 @@
+C:\Users\ssrat\source\repos\B19CS\VhaashLibrary\bin\Debug\VhaashLibrary.dll
+C:\Users\ssrat\source\repos\B19CS\VhaashLibrary\bin\Debug\VhaashLibrary.pdb
+C:\Users\ssrat\source\repos\B19CS\VhaashLibrary\obj\Debug\VhaashLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ssrat\source\repos\B19CS\VhaashLibrary\obj\Debug\VhaashLibrary.dll
+C:\Users\ssrat\source\repos\B19CS\VhaashLibrary\obj\Debug\VhaashLibrary.pdb
+C:\Users\ssrat\source\repos\B19CS\VhaashLibrary\obj\Debug\VhaashLibrary.csproj.AssemblyReference.cache
