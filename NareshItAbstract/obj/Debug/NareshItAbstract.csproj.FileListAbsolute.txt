@@ -1,0 +1,7 @@
+C:\Users\ssrat\source\repos\B19CS\NareshItAbstract\bin\Debug\NareshItAbstract.exe.config
+C:\Users\ssrat\source\repos\B19CS\NareshItAbstract\bin\Debug\NareshItAbstract.exe
+C:\Users\ssrat\source\repos\B19CS\NareshItAbstract\bin\Debug\NareshItAbstract.pdb
+C:\Users\ssrat\source\repos\B19CS\NareshItAbstract\obj\Debug\NareshItAbstract.csproj.AssemblyReference.cache
+C:\Users\ssrat\source\repos\B19CS\NareshItAbstract\obj\Debug\NareshItAbstract.csproj.CoreCompileInputs.cache
+C:\Users\ssrat\source\repos\B19CS\NareshItAbstract\obj\Debug\NareshItAbstract.exe
+C:\Users\ssrat\source\repos\B19CS\NareshItAbstract\obj\Debug\NareshItAbstract.pdb

@@ -1,0 +1,7 @@
+C:\Users\ssrat\source\repos\B19CS\InterfaceDemo\bin\Debug\InterfaceDemo.exe.config
+C:\Users\ssrat\source\repos\B19CS\InterfaceDemo\bin\Debug\InterfaceDemo.exe
+C:\Users\ssrat\source\repos\B19CS\InterfaceDemo\bin\Debug\InterfaceDemo.pdb
+C:\Users\ssrat\source\repos\B19CS\InterfaceDemo\obj\Debug\InterfaceDemo.csproj.AssemblyReference.cache
+C:\Users\ssrat\source\repos\B19CS\InterfaceDemo\obj\Debug\InterfaceDemo.csproj.CoreCompileInputs.cache
+C:\Users\ssrat\source\repos\B19CS\InterfaceDemo\obj\Debug\InterfaceDemo.exe
+C:\Users\ssrat\source\repos\B19CS\InterfaceDemo\obj\Debug\InterfaceDemo.pdb
