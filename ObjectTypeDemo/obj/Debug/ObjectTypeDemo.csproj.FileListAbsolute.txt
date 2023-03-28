@@ -1,0 +1,7 @@
+C:\Users\ssrat\source\repos\B19CS\ObjectTypeDemo\bin\Debug\ObjectTypeDemo.exe.config
+C:\Users\ssrat\source\repos\B19CS\ObjectTypeDemo\bin\Debug\ObjectTypeDemo.exe
+C:\Users\ssrat\source\repos\B19CS\ObjectTypeDemo\bin\Debug\ObjectTypeDemo.pdb
+C:\Users\ssrat\source\repos\B19CS\ObjectTypeDemo\obj\Debug\ObjectTypeDemo.csproj.AssemblyReference.cache
+C:\Users\ssrat\source\repos\B19CS\ObjectTypeDemo\obj\Debug\ObjectTypeDemo.csproj.CoreCompileInputs.cache
+C:\Users\ssrat\source\repos\B19CS\ObjectTypeDemo\obj\Debug\ObjectTypeDemo.exe
+C:\Users\ssrat\source\repos\B19CS\ObjectTypeDemo\obj\Debug\ObjectTypeDemo.pdb

@@ -1,0 +1,6 @@
+C:\Users\ssrat\source\repos\B19CS\AbstractDemo\bin\Debug\AbstractDemo.exe.config
+C:\Users\ssrat\source\repos\B19CS\AbstractDemo\bin\Debug\AbstractDemo.exe
+C:\Users\ssrat\source\repos\B19CS\AbstractDemo\bin\Debug\AbstractDemo.pdb
+C:\Users\ssrat\source\repos\B19CS\AbstractDemo\obj\Debug\AbstractDemo.csproj.CoreCompileInputs.cache
+C:\Users\ssrat\source\repos\B19CS\AbstractDemo\obj\Debug\AbstractDemo.exe
+C:\Users\ssrat\source\repos\B19CS\AbstractDemo\obj\Debug\AbstractDemo.pdb

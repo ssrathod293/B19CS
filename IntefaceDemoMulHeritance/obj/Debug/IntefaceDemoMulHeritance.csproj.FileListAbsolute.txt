@@ -1,0 +1,7 @@
+C:\Users\ssrat\source\repos\B19CS\IntefaceDemoMulHeritance\bin\Debug\IntefaceDemoMulHeritance.exe.config
+C:\Users\ssrat\source\repos\B19CS\IntefaceDemoMulHeritance\bin\Debug\IntefaceDemoMulHeritance.exe
+C:\Users\ssrat\source\repos\B19CS\IntefaceDemoMulHeritance\bin\Debug\IntefaceDemoMulHeritance.pdb
+C:\Users\ssrat\source\repos\B19CS\IntefaceDemoMulHeritance\obj\Debug\IntefaceDemoMulHeritance.csproj.AssemblyReference.cache
+C:\Users\ssrat\source\repos\B19CS\IntefaceDemoMulHeritance\obj\Debug\IntefaceDemoMulHeritance.csproj.CoreCompileInputs.cache
+C:\Users\ssrat\source\repos\B19CS\IntefaceDemoMulHeritance\obj\Debug\IntefaceDemoMulHeritance.exe
+C:\Users\ssrat\source\repos\B19CS\IntefaceDemoMulHeritance\obj\Debug\IntefaceDemoMulHeritance.pdb

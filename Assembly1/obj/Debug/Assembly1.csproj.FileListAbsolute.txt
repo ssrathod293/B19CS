@@ -1,0 +1,10 @@
+C:\Users\ssrat\source\repos\B19CS\Assembly1\bin\Debug\Assembly1.exe.config
+C:\Users\ssrat\source\repos\B19CS\Assembly1\bin\Debug\Assembly1.exe
+C:\Users\ssrat\source\repos\B19CS\Assembly1\bin\Debug\Assembly1.pdb
+C:\Users\ssrat\source\repos\B19CS\Assembly1\bin\Debug\Assembly2.dll
+C:\Users\ssrat\source\repos\B19CS\Assembly1\bin\Debug\Assembly2.pdb
+C:\Users\ssrat\source\repos\B19CS\Assembly1\obj\Debug\Assembly1.csproj.AssemblyReference.cache
+C:\Users\ssrat\source\repos\B19CS\Assembly1\obj\Debug\Assembly1.csproj.CoreCompileInputs.cache
+C:\Users\ssrat\source\repos\B19CS\Assembly1\obj\Debug\Assembly1.csproj.CopyComplete
+C:\Users\ssrat\source\repos\B19CS\Assembly1\obj\Debug\Assembly1.exe
+C:\Users\ssrat\source\repos\B19CS\Assembly1\obj\Debug\Assembly1.pdb

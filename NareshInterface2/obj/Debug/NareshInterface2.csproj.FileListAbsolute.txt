@@ -1,0 +1,7 @@
+C:\Users\ssrat\source\repos\B19CS\NareshInterface2\bin\Debug\NareshInterface2.exe.config
+C:\Users\ssrat\source\repos\B19CS\NareshInterface2\bin\Debug\NareshInterface2.exe
+C:\Users\ssrat\source\repos\B19CS\NareshInterface2\bin\Debug\NareshInterface2.pdb
+C:\Users\ssrat\source\repos\B19CS\NareshInterface2\obj\Debug\NareshInterface2.csproj.CoreCompileInputs.cache
+C:\Users\ssrat\source\repos\B19CS\NareshInterface2\obj\Debug\NareshInterface2.exe
+C:\Users\ssrat\source\repos\B19CS\NareshInterface2\obj\Debug\NareshInterface2.pdb
+C:\Users\ssrat\source\repos\B19CS\NareshInterface2\obj\Debug\NareshInterface2.csproj.AssemblyReference.cache
