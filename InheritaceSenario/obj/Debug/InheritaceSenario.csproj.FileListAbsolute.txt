@@ -1,0 +1,7 @@
+C:\Users\ssrat\source\repos\B19CS\InheritaceSenario\bin\Debug\InheritaceSenario.exe.config
+C:\Users\ssrat\source\repos\B19CS\InheritaceSenario\bin\Debug\InheritaceSenario.exe
+C:\Users\ssrat\source\repos\B19CS\InheritaceSenario\bin\Debug\InheritaceSenario.pdb
+C:\Users\ssrat\source\repos\B19CS\InheritaceSenario\obj\Debug\InheritaceSenario.csproj.CoreCompileInputs.cache
+C:\Users\ssrat\source\repos\B19CS\InheritaceSenario\obj\Debug\InheritaceSenario.exe
+C:\Users\ssrat\source\repos\B19CS\InheritaceSenario\obj\Debug\InheritaceSenario.pdb
+C:\Users\ssrat\source\repos\B19CS\InheritaceSenario\obj\Debug\InheritaceSenario.csproj.AssemblyReference.cache

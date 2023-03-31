@@ -1,0 +1,6 @@
+C:\Users\ssrat\source\repos\B19CS\IndexerDemoPracticeVhaash\bin\Debug\IndexerDemoPracticeVhaash.exe.config
+C:\Users\ssrat\source\repos\B19CS\IndexerDemoPracticeVhaash\bin\Debug\IndexerDemoPracticeVhaash.exe
+C:\Users\ssrat\source\repos\B19CS\IndexerDemoPracticeVhaash\bin\Debug\IndexerDemoPracticeVhaash.pdb
+C:\Users\ssrat\source\repos\B19CS\IndexerDemoPracticeVhaash\obj\Debug\IndexerDemoPracticeVhaash.csproj.CoreCompileInputs.cache
+C:\Users\ssrat\source\repos\B19CS\IndexerDemoPracticeVhaash\obj\Debug\IndexerDemoPracticeVhaash.exe
+C:\Users\ssrat\source\repos\B19CS\IndexerDemoPracticeVhaash\obj\Debug\IndexerDemoPracticeVhaash.pdb
