@@ -1,0 +1,7 @@
+C:\Users\ssrat\source\repos\B19CS\ObjectVarDyanamic\bin\Debug\ObjectVarDyanamic.exe.config
+C:\Users\ssrat\source\repos\B19CS\ObjectVarDyanamic\bin\Debug\ObjectVarDyanamic.exe
+C:\Users\ssrat\source\repos\B19CS\ObjectVarDyanamic\bin\Debug\ObjectVarDyanamic.pdb
+C:\Users\ssrat\source\repos\B19CS\ObjectVarDyanamic\obj\Debug\ObjectVarDyanamic.csproj.AssemblyReference.cache
+C:\Users\ssrat\source\repos\B19CS\ObjectVarDyanamic\obj\Debug\ObjectVarDyanamic.csproj.CoreCompileInputs.cache
+C:\Users\ssrat\source\repos\B19CS\ObjectVarDyanamic\obj\Debug\ObjectVarDyanamic.exe
+C:\Users\ssrat\source\repos\B19CS\ObjectVarDyanamic\obj\Debug\ObjectVarDyanamic.pdb

@@ -1,0 +1,7 @@
+C:\Users\ssrat\source\repos\B19CS\NareshIndexer\bin\Debug\NareshIndexer.exe.config
+C:\Users\ssrat\source\repos\B19CS\NareshIndexer\bin\Debug\NareshIndexer.exe
+C:\Users\ssrat\source\repos\B19CS\NareshIndexer\bin\Debug\NareshIndexer.pdb
+C:\Users\ssrat\source\repos\B19CS\NareshIndexer\obj\Debug\NareshIndexer.csproj.CoreCompileInputs.cache
+C:\Users\ssrat\source\repos\B19CS\NareshIndexer\obj\Debug\NareshIndexer.exe
+C:\Users\ssrat\source\repos\B19CS\NareshIndexer\obj\Debug\NareshIndexer.pdb
+C:\Users\ssrat\source\repos\B19CS\NareshIndexer\obj\Debug\NareshIndexer.csproj.AssemblyReference.cache

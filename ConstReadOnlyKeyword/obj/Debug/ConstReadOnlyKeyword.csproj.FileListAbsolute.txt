@@ -1,0 +1,7 @@
+C:\Users\ssrat\source\repos\B19CS\ConstReadOnlyKeyword\bin\Debug\ConstReadOnlyKeyword.exe.config
+C:\Users\ssrat\source\repos\B19CS\ConstReadOnlyKeyword\bin\Debug\ConstReadOnlyKeyword.exe
+C:\Users\ssrat\source\repos\B19CS\ConstReadOnlyKeyword\bin\Debug\ConstReadOnlyKeyword.pdb
+C:\Users\ssrat\source\repos\B19CS\ConstReadOnlyKeyword\obj\Debug\ConstReadOnlyKeyword.csproj.CoreCompileInputs.cache
+C:\Users\ssrat\source\repos\B19CS\ConstReadOnlyKeyword\obj\Debug\ConstReadOnlyKeyword.exe
+C:\Users\ssrat\source\repos\B19CS\ConstReadOnlyKeyword\obj\Debug\ConstReadOnlyKeyword.pdb
+C:\Users\ssrat\source\repos\B19CS\ConstReadOnlyKeyword\obj\Debug\ConstReadOnlyKeyword.csproj.AssemblyReference.cache
