@@ -1,0 +1,6 @@
+C:\Users\ssrat\source\repos\B19CS\LazyLoadingDemo\bin\Debug\LazyLoadingDemo.exe.config
+C:\Users\ssrat\source\repos\B19CS\LazyLoadingDemo\bin\Debug\LazyLoadingDemo.exe
+C:\Users\ssrat\source\repos\B19CS\LazyLoadingDemo\bin\Debug\LazyLoadingDemo.pdb
+C:\Users\ssrat\source\repos\B19CS\LazyLoadingDemo\obj\Debug\LazyLoadingDemo.csproj.CoreCompileInputs.cache
+C:\Users\ssrat\source\repos\B19CS\LazyLoadingDemo\obj\Debug\LazyLoadingDemo.exe
+C:\Users\ssrat\source\repos\B19CS\LazyLoadingDemo\obj\Debug\LazyLoadingDemo.pdb

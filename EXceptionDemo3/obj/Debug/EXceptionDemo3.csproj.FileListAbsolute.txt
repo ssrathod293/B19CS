@@ -1,0 +1,6 @@
+C:\Users\ssrat\source\repos\B19CS\EXceptionDemo3\bin\Debug\EXceptionDemo3.exe.config
+C:\Users\ssrat\source\repos\B19CS\EXceptionDemo3\bin\Debug\EXceptionDemo3.exe
+C:\Users\ssrat\source\repos\B19CS\EXceptionDemo3\bin\Debug\EXceptionDemo3.pdb
+C:\Users\ssrat\source\repos\B19CS\EXceptionDemo3\obj\Debug\EXceptionDemo3.csproj.CoreCompileInputs.cache
+C:\Users\ssrat\source\repos\B19CS\EXceptionDemo3\obj\Debug\EXceptionDemo3.exe
+C:\Users\ssrat\source\repos\B19CS\EXceptionDemo3\obj\Debug\EXceptionDemo3.pdb

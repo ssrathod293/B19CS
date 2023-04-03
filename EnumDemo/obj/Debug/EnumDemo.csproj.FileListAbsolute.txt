@@ -1,0 +1,6 @@
+C:\Users\ssrat\source\repos\B19CS\EnumDemo\bin\Debug\EnumDemo.exe.config
+C:\Users\ssrat\source\repos\B19CS\EnumDemo\bin\Debug\EnumDemo.exe
+C:\Users\ssrat\source\repos\B19CS\EnumDemo\bin\Debug\EnumDemo.pdb
+C:\Users\ssrat\source\repos\B19CS\EnumDemo\obj\Debug\EnumDemo.csproj.CoreCompileInputs.cache
+C:\Users\ssrat\source\repos\B19CS\EnumDemo\obj\Debug\EnumDemo.exe
+C:\Users\ssrat\source\repos\B19CS\EnumDemo\obj\Debug\EnumDemo.pdb

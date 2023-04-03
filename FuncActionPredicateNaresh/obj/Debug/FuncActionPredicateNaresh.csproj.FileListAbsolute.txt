@@ -1,0 +1,7 @@
+C:\Users\ssrat\source\repos\B19CS\FuncActionPredicateNaresh\bin\Debug\FuncActionPredicateNaresh.exe.config
+C:\Users\ssrat\source\repos\B19CS\FuncActionPredicateNaresh\bin\Debug\FuncActionPredicateNaresh.exe
+C:\Users\ssrat\source\repos\B19CS\FuncActionPredicateNaresh\bin\Debug\FuncActionPredicateNaresh.pdb
+C:\Users\ssrat\source\repos\B19CS\FuncActionPredicateNaresh\obj\Debug\FuncActionPredicateNaresh.csproj.AssemblyReference.cache
+C:\Users\ssrat\source\repos\B19CS\FuncActionPredicateNaresh\obj\Debug\FuncActionPredicateNaresh.csproj.CoreCompileInputs.cache
+C:\Users\ssrat\source\repos\B19CS\FuncActionPredicateNaresh\obj\Debug\FuncActionPredicateNaresh.exe
+C:\Users\ssrat\source\repos\B19CS\FuncActionPredicateNaresh\obj\Debug\FuncActionPredicateNaresh.pdb

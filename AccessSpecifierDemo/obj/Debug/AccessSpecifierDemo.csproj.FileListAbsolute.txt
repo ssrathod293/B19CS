@@ -4,3 +4,4 @@ C:\Users\ssrat\source\repos\B19CS\AccessSpecifierDemo\bin\Debug\AccessSpecifierD
 C:\Users\ssrat\source\repos\B19CS\AccessSpecifierDemo\obj\Debug\AccessSpecifierDemo.csproj.CoreCompileInputs.cache
 C:\Users\ssrat\source\repos\B19CS\AccessSpecifierDemo\obj\Debug\AccessSpecifierDemo.exe
 C:\Users\ssrat\source\repos\B19CS\AccessSpecifierDemo\obj\Debug\AccessSpecifierDemo.pdb
+C:\Users\ssrat\source\repos\B19CS\AccessSpecifierDemo\obj\Debug\AccessSpecifierDemo.csproj.AssemblyReference.cache

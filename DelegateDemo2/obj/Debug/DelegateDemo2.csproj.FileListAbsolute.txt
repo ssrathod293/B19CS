@@ -1,0 +1,6 @@
+C:\Users\ssrat\source\repos\B19CS\DelegateDemo2\bin\Debug\DelegateDemo2.exe.config
+C:\Users\ssrat\source\repos\B19CS\DelegateDemo2\bin\Debug\DelegateDemo2.exe
+C:\Users\ssrat\source\repos\B19CS\DelegateDemo2\bin\Debug\DelegateDemo2.pdb
+C:\Users\ssrat\source\repos\B19CS\DelegateDemo2\obj\Debug\DelegateDemo2.csproj.CoreCompileInputs.cache
+C:\Users\ssrat\source\repos\B19CS\DelegateDemo2\obj\Debug\DelegateDemo2.exe
+C:\Users\ssrat\source\repos\B19CS\DelegateDemo2\obj\Debug\DelegateDemo2.pdb

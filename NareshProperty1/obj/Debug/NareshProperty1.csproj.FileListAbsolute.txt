@@ -1,0 +1,7 @@
+C:\Users\ssrat\source\repos\B19CS\NareshProperty1\bin\Debug\NareshProperty1.exe.config
+C:\Users\ssrat\source\repos\B19CS\NareshProperty1\bin\Debug\NareshProperty1.exe
+C:\Users\ssrat\source\repos\B19CS\NareshProperty1\bin\Debug\NareshProperty1.pdb
+C:\Users\ssrat\source\repos\B19CS\NareshProperty1\obj\Debug\NareshProperty1.csproj.AssemblyReference.cache
+C:\Users\ssrat\source\repos\B19CS\NareshProperty1\obj\Debug\NareshProperty1.csproj.CoreCompileInputs.cache
+C:\Users\ssrat\source\repos\B19CS\NareshProperty1\obj\Debug\NareshProperty1.exe
+C:\Users\ssrat\source\repos\B19CS\NareshProperty1\obj\Debug\NareshProperty1.pdb

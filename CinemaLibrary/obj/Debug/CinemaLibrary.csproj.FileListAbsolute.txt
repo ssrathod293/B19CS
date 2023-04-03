@@ -1,0 +1,6 @@
+C:\Users\ssrat\source\repos\B19CS\CinemaLibrary\bin\Debug\CinemaLibrary.dll
+C:\Users\ssrat\source\repos\B19CS\CinemaLibrary\bin\Debug\CinemaLibrary.pdb
+C:\Users\ssrat\source\repos\B19CS\CinemaLibrary\obj\Debug\CinemaLibrary.csproj.AssemblyReference.cache
+C:\Users\ssrat\source\repos\B19CS\CinemaLibrary\obj\Debug\CinemaLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ssrat\source\repos\B19CS\CinemaLibrary\obj\Debug\CinemaLibrary.dll
+C:\Users\ssrat\source\repos\B19CS\CinemaLibrary\obj\Debug\CinemaLibrary.pdb

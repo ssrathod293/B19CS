@@ -1,0 +1,10 @@
+C:\Users\ssrat\source\repos\B19CS\CinemaClients\bin\Debug\CinemaClients.exe.config
+C:\Users\ssrat\source\repos\B19CS\CinemaClients\bin\Debug\CinemaClients.exe
+C:\Users\ssrat\source\repos\B19CS\CinemaClients\bin\Debug\CinemaClients.pdb
+C:\Users\ssrat\source\repos\B19CS\CinemaClients\bin\Debug\CinemaLibrary.dll
+C:\Users\ssrat\source\repos\B19CS\CinemaClients\bin\Debug\CinemaLibrary.pdb
+C:\Users\ssrat\source\repos\B19CS\CinemaClients\obj\Debug\CinemaClients.csproj.AssemblyReference.cache
+C:\Users\ssrat\source\repos\B19CS\CinemaClients\obj\Debug\CinemaClients.csproj.CoreCompileInputs.cache
+C:\Users\ssrat\source\repos\B19CS\CinemaClients\obj\Debug\CinemaClients.csproj.CopyComplete
+C:\Users\ssrat\source\repos\B19CS\CinemaClients\obj\Debug\CinemaClients.exe
+C:\Users\ssrat\source\repos\B19CS\CinemaClients\obj\Debug\CinemaClients.pdb

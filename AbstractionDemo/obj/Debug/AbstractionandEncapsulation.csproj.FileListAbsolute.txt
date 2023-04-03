@@ -1,0 +1,6 @@
+C:\Users\ssrat\source\repos\B19CS\AbstractionDemo\bin\Debug\AbstractionDemo.exe.config
+C:\Users\ssrat\source\repos\B19CS\AbstractionDemo\bin\Debug\AbstractionDemo.exe
+C:\Users\ssrat\source\repos\B19CS\AbstractionDemo\bin\Debug\AbstractionDemo.pdb
+C:\Users\ssrat\source\repos\B19CS\AbstractionDemo\obj\Debug\AbstractionandEncapsulation.csproj.CoreCompileInputs.cache
+C:\Users\ssrat\source\repos\B19CS\AbstractionDemo\obj\Debug\AbstractionDemo.exe
+C:\Users\ssrat\source\repos\B19CS\AbstractionDemo\obj\Debug\AbstractionDemo.pdb

@@ -1,0 +1,6 @@
+C:\Users\ssrat\source\repos\B19CS\AnonymousMethodDemo\bin\Debug\AnonymousMethodDemo.exe.config
+C:\Users\ssrat\source\repos\B19CS\AnonymousMethodDemo\bin\Debug\AnonymousMethodDemo.exe
+C:\Users\ssrat\source\repos\B19CS\AnonymousMethodDemo\bin\Debug\AnonymousMethodDemo.pdb
+C:\Users\ssrat\source\repos\B19CS\AnonymousMethodDemo\obj\Debug\AnonymousMethodDemo.csproj.CoreCompileInputs.cache
+C:\Users\ssrat\source\repos\B19CS\AnonymousMethodDemo\obj\Debug\AnonymousMethodDemo.exe
+C:\Users\ssrat\source\repos\B19CS\AnonymousMethodDemo\obj\Debug\AnonymousMethodDemo.pdb

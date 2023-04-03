@@ -1,0 +1,7 @@
+C:\Users\ssrat\source\repos\B19CS\GenericDemo\bin\Debug\GenericDemo.exe.config
+C:\Users\ssrat\source\repos\B19CS\GenericDemo\bin\Debug\GenericDemo.exe
+C:\Users\ssrat\source\repos\B19CS\GenericDemo\bin\Debug\GenericDemo.pdb
+C:\Users\ssrat\source\repos\B19CS\GenericDemo\obj\Debug\GenericDemo.csproj.CoreCompileInputs.cache
+C:\Users\ssrat\source\repos\B19CS\GenericDemo\obj\Debug\GenericDemo.exe
+C:\Users\ssrat\source\repos\B19CS\GenericDemo\obj\Debug\GenericDemo.pdb
+C:\Users\ssrat\source\repos\B19CS\GenericDemo\obj\Debug\GenericDemo.csproj.AssemblyReference.cache

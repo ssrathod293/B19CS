@@ -1,0 +1,7 @@
+C:\Users\ssrat\source\repos\B19CS\PartialKewordDemo\obj\Debug\PartialKewordDemo.csproj.CoreCompileInputs.cache
+C:\Users\ssrat\source\repos\B19CS\PartialKewordDemo\bin\Debug\PartialKewordDemo.exe.config
+C:\Users\ssrat\source\repos\B19CS\PartialKewordDemo\bin\Debug\PartialKewordDemo.exe
+C:\Users\ssrat\source\repos\B19CS\PartialKewordDemo\bin\Debug\PartialKewordDemo.pdb
+C:\Users\ssrat\source\repos\B19CS\PartialKewordDemo\obj\Debug\PartialKewordDemo.csproj.AssemblyReference.cache
+C:\Users\ssrat\source\repos\B19CS\PartialKewordDemo\obj\Debug\PartialKewordDemo.exe
+C:\Users\ssrat\source\repos\B19CS\PartialKewordDemo\obj\Debug\PartialKewordDemo.pdb

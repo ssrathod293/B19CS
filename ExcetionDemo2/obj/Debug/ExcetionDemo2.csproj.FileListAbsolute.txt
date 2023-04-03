@@ -1,0 +1,7 @@
+C:\Users\ssrat\source\repos\B19CS\ExcetionDemo2\bin\Debug\ExcetionDemo2.exe.config
+C:\Users\ssrat\source\repos\B19CS\ExcetionDemo2\bin\Debug\ExcetionDemo2.exe
+C:\Users\ssrat\source\repos\B19CS\ExcetionDemo2\bin\Debug\ExcetionDemo2.pdb
+C:\Users\ssrat\source\repos\B19CS\ExcetionDemo2\obj\Debug\ExcetionDemo2.csproj.CoreCompileInputs.cache
+C:\Users\ssrat\source\repos\B19CS\ExcetionDemo2\obj\Debug\ExcetionDemo2.exe
+C:\Users\ssrat\source\repos\B19CS\ExcetionDemo2\obj\Debug\ExcetionDemo2.pdb
+C:\Users\ssrat\source\repos\B19CS\ExcetionDemo2\obj\Debug\ExcetionDemo2.csproj.AssemblyReference.cache
